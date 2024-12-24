@@ -28,6 +28,7 @@ This repository contains the implementation of the algorithms presented in the f
 
 
 ## Repository Structure
+ 
 
 - **`CGPNASV2.py`**: Script implementing the CGP-NASV2 algorithm.
 - **`CGPNASW_SS.py`**: Script for the progressive self-supervised framework.
@@ -37,6 +38,8 @@ This repository contains the implementation of the algorithms presented in the f
 - **`Utils/`**: Utility functions for Datasets
 - **`CGPNASWSS/`**:  Directory containing modules related to he progressive self-supervised framework.
 - **`requirements.txt`**: List of Python dependencies required to run the code.
+
+Our codebase is inspired by Suganuma work in the repository https://github.com/sg-nm/cgp-cnn-PyTorch.
 
 ## Installation
 
