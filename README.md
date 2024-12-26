@@ -20,7 +20,7 @@ This repository contains the implementation of the algorithms presented in the f
    *DOI:* [10.1007/978-3-031-56855-8_11](https://doi.org/10.1007/978-3-031-56855-8_11)  
  
 5. **"Speeding up the Multi-objective NAS Through Incremental Learning"**  
-   *Authors:* Cosijopii Garcia-Garcia, Alicia Morales-Reyes, Hugo Jair Escalante  
+   *Authors:* Cosijopii Garcia-Garcia, Bilel Derbel, Alicia Morales-Reyes, Hugo Jair Escalante  
    *Published in:* *Applications of Evolutionary Computation*, Lecture Notes in Computer Science, vol 14635, 2024  
    *Abstract:* Deep neural networks (DNNs), particularly convolutional neural networks (CNNs), have garnered significant attention in recent years for addressing a wide range of challenges in image processing and computer vision. Neural architecture search (NAS) has emerged as a crucial field aiming to automate the design and configuration of CNN models. In this paper, we propose a novel strategy to speed up the performance estimation of neural architectures by gradually increasing the size of the training set used for evaluation as the search progresses. We evaluate this approach using the CGP-NASV2 model, a multi-objective NAS method, on the CIFAR-100 dataset. Experimental results demonstrate a notable acceleration in the search process, achieving a speedup of 4.6 times compared to the baseline. Despite using limited data in the early stages, our proposed method effectively guides the search towards competitive architectures. This study highlights the efficacy of leveraging lower-fidelity estimates in NAS and paves the way for further research into accelerating the design of efficient CNN architectures.
 
